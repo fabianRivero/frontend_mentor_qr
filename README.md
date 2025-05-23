@@ -27,7 +27,7 @@ This is a solution to the QR code component challenge on Frontend Mentor.
 
 ### Links
 
-- Live Site URL: [Live project](https://celadon-alfajores-af42ce.netlify.app/)
+- Live Site URL: [Live project](https://qr-component-front.netlify.app/)
 
 ## My process
 
