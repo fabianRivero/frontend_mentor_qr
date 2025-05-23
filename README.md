@@ -21,10 +21,8 @@ This is a solution to the QR code component challenge on Frontend Mentor.
 ### Screenshot
 
 ![Mobile design](./design/mobile-design.jpg)
-<img src="./design/mobile-design.jpg" alt="Mobile design"/>
 
 ![Desktop design](./design/desktop-design.jpg)
-<img src="./design/desktop-design.jpg" alt="Desktop design"/>
 
 
 ### Links
